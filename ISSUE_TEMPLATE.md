@@ -1,4 +1,4 @@
-# Expected behavior and actual behavior.
+# Expected behaviour and actual behaviour.
 
 # Steps to reproduce the problem.
 
